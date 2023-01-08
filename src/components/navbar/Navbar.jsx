@@ -12,11 +12,11 @@ const Navbar = () => {
 
   const Menu = () => (
     <>
-      <p><a href="#home">Home</a></p>
-      <p><a href="#wgpt3">What is GPT3</a></p>
+      <p><a href="#home">Inicio</a></p>
+      <p><a href="#wgpt3">GPT3</a></p>
       <p><a href="#possibility">Open AI</a></p>
-      <p><a href="#features">Case Studies</a></p>
-      <p><a href="#blog">Library</a></p>
+      <p><a href="#features">Estudos de casos</a></p>
+      <p><a href="#blog">Recursos</a></p>
     </>
   )
 
@@ -32,8 +32,8 @@ const Navbar = () => {
         </div>
       </div>
       <div className='gpt3__navbar-sign'>
-        <p>Sign in</p>
-        <button type='button'>Sign up</button>
+        <p>Entrar</p>
+        <button type='button'>Registre-se</button>
       </div>
 
       <div className='gpt3__navbar-menu'>
