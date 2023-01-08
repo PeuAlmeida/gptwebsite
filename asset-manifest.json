@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gptwebsite/static/css/main.0eac68a7.css",
+    "main.js": "/gptwebsite/static/js/main.3fd06da8.js",
+    "static/media/ai.png": "/gptwebsite/static/media/ai.1fcab8ec94a945c2ea11.png",
+    "static/media/possibility.png": "/gptwebsite/static/media/possibility.e685de02939616d109da.png",
+    "static/media/blog03.png": "/gptwebsite/static/media/blog03.27442f119d71df572edb.png",
+    "static/media/blog02.png": "/gptwebsite/static/media/blog02.649046e1b7851d3f5550.png",
+    "static/media/blog05.png": "/gptwebsite/static/media/blog05.045044c23b1c585bb67b.png",
+    "static/media/blog04.png": "/gptwebsite/static/media/blog04.f45005c6ec4cdeda97bf.png",
+    "static/media/blog01.png": "/gptwebsite/static/media/blog01.a184d2839a9fdeae9aa8.png",
+    "static/media/people.png": "/gptwebsite/static/media/people.2cfdf724680e3ce7e868.png",
+    "static/media/dropbox.png": "/gptwebsite/static/media/dropbox.74056b966ce8bd5829b6.png",
+    "static/media/atlassian.png": "/gptwebsite/static/media/atlassian.b300970d4dad69eef066.png",
+    "static/media/logo.svg": "/gptwebsite/static/media/logo.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/gptwebsite/index.html",
+    "main.0eac68a7.css.map": "/gptwebsite/static/css/main.0eac68a7.css.map",
+    "main.3fd06da8.js.map": "/gptwebsite/static/js/main.3fd06da8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eac68a7.css",
+    "static/js/main.3fd06da8.js"
+  ]
+}
